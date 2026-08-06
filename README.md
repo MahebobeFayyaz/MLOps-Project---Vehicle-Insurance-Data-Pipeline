@@ -8,6 +8,34 @@ Whether you're a recruiter, hiring manager, or fellow developer, this repository
 ---
 <img width="1920" height="1080" alt="App" src="https://github.com/user-attachments/assets/bea03ed7-5e8b-41ec-b651-cfaaf1a07714" />
 
+# 🛠️ Tools & Technologies Used
+
+This project leverages a modern MLOps technology stack to build, train, deploy, and automate a production-ready machine learning application.
+
+| Category | Tools & Technologies |
+|----------|----------------------|
+| **Programming Language** | Python 3.10 |
+| **Machine Learning** | Scikit-learn, NumPy, Pandas |
+| **Data Visualization** | Matplotlib, Seaborn |
+| **Web Framework** | FastAPI |
+| **Frontend** | HTML5, CSS3, Jinja2 Templates |
+| **Database** | MongoDB Atlas |
+| **Cloud Platform** | Amazon Web Services (AWS) |
+| **Cloud Services** | Amazon S3, Amazon EC2, Amazon ECR, AWS IAM |
+| **Containerization** | Docker |
+| **CI/CD** | GitHub Actions |
+| **Version Control** | Git, GitHub |
+| **Package Management** | pip, setup.py, pyproject.toml |
+| **Environment Management** | Conda, Virtual Environment |
+| **Configuration Management** | YAML |
+| **Logging** | Python Logging Module |
+| **Exception Handling** | Custom Exception Classes |
+| **Serialization** | Pickle |
+| **Development Environment** | Visual Studio Code, Jupyter Notebook |
+| **Operating System** | Windows, Ubuntu Linux |
+| **Deployment** | Docker Container on AWS EC2 |
+| **Automation** | GitHub Self-Hosted Runner |
+
 
 # 📁 Project Setup and Structure
 
