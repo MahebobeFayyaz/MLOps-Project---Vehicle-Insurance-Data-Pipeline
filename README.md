@@ -326,7 +326,7 @@ AWS_DEFAULT_REGION
 
 ECR_REPO
 ```
-<img width="1920" height="1080" alt="MongoDB" src="https://github.com/user-attachments/assets/5ea30488-a265-43c9-851e-5e61b9ebb6b3" />
+<img width="1920" height="1080" alt="Github (1)" src="https://github.com/user-attachments/assets/f49a14d9-7290-49b1-ae42-35dc33c156f8" />
 
 <img width="1920" height="1080" alt="Github (2)" src="https://github.com/user-attachments/assets/b28e61fe-5b95-4231-856a-fe8b1dfc0f7a" />
 
